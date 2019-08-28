@@ -2,17 +2,16 @@
 
 > calendar
 
+## github 下载地址
+```
+https://github.com/chenyp01/czs-yx-calendar.git
+```
+
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
+npm i czs-yx-calendar
 ```
 
 ## Usage
